@@ -1,5 +1,5 @@
 package cn.edu.njupt;
-
+// a message change!
 import org.junit.jupiter.api.DynamicTest;
 
 public class Book {
